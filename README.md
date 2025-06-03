@@ -17,8 +17,8 @@ An interactive web-based visualizer for popular sorting algorithms, built using 
   - Merge Sort
 - 🎨 Clean and responsive UI using Bootstrap
   ![Sorting Visualizer Screenshot](images/img1.png)
-  ![](image/img2.png).
-  ![](image/img3.png).
+  ![](images/img2.png)
+  ![](images/img3.png)
   
 
 ## 🚀 Live Demo
